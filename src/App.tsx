@@ -292,7 +292,7 @@ function App() {
               <div className="grid lg:grid-cols-2 gap-12 items-start">
                 <div>
                   <p className="text-lg text-gray-300 mb-6">
-                    I specialize in translating complex user behaviors into actionable insights that drive product direction. I believe in the power of asking the right questions and looking closely to the hows, whys, and buts behind how people think. 
+                    I specialize in translating complex user behaviors into actionable insights that give direction. I believe in the power of asking the right questions and looking closely to the hows, whys, and buts behind how people think. 
                   </p>
                   <p className="text-lg text-gray-300 mb-8">
                     With a Masters in UX and training in Economics, Sociology, and Business, I bring a multidisciplinary lens to research. I've led research on everything from initial design validation, to product redesigns, and systems overhauls. 
